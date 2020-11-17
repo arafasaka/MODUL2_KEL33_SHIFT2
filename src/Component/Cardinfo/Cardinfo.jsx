@@ -9,8 +9,9 @@ border-radius: 20px;
 box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
 color: #B3B8CD;
 position: relative;
-width: auto;
-margin: 230px;
+width: 50%;
+margin: auto;
+margin-top: 150px;
 @media screen and (max-width: 500px) {
        margin: auto;
 }
